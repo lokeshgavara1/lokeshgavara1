@@ -1,21 +1,41 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code:wght@900&size=27&duration=3000&pause=1500&color=FF5722&center=true&vCenter=true&multiline=false&width=1200&lines=Hey+%F0%9F%91%8B+I'm+Lokesh+Gavara!;AI%2FML+Engineer+%7C+Deep+Learning+%7C+Prompt+Engineering+%7C+ML+Ops" alt="Lokesh Gavara Animated Intro">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code:wght@900&size=30&duration=3000&pause=1500&color=FF5722&center=true&vCenter=true&multiline=false&width=1000&lines=Hey+%F0%9F%91%8B+I'm+Lokesh+Gavara!;AI%2FML+Engineer+%7C+Python+%7C+Prompt+Engineering+%7C+Deep+Learning" alt="Lokesh Gavara Title Animation">
 </h1>
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&multiline=false&width=700&lines=%F0%9F%91%8B+About+Me" alt="About Me Animated">
-</h2>
+<h3 align="center"><strong>🚀 Crafting Intelligent AI Solutions | Centurion University | AI/ML Enthusiast & Tech Explorer</strong></h3>
 
-<h4 align="center"><strong>Aspiring AI/ML Engineer with a Passion for Intelligent Automation and Scalable Innovation</strong></h4>
-
-- 👋 Hi there! I’m **Lokesh Gavara**, a passionate AI & ML Engineer from Centurion University.  
-- 🧠 I specialize in **Python**, Deep Learning, and Prompt Engineering.  
-- 🚀 I craft innovative solutions to real-world problems using AI technologies.  
-- 🤝 I thrive in collaborative environments and lead teams to success.  
-- 🎯 Known for my strong problem-solving skills and efficient project execution.  
-- 🌐 Exploring AI's impact on daily life and future tech advancements.
+<p align="center">
+  <a href="mailto:lokeshgavara5@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/lokeshgavara5/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/lokeshgavara1">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&multiline=false&width=500&lines=%F0%9F%91%8B+About+Me" alt="About Me Animated">
+</h2>
+
+<h4 align="center"><strong>Aspiring AI/ML Engineer | Passionate about building scalable, ethical & intelligent systems</strong></h4>
+
+<ul>
+  <li>👋 Hi! I'm <strong>Lokesh Gavara</strong>, an AI/ML Engineer from <strong>Centurion University</strong>.</li>
+  <li>🧠 Skilled in <strong>Python, Deep Learning, NLP, Prompt Engineering, and ML Ops</strong>.</li>
+  <li>🚀 I build intelligent solutions for real-world impact — from crop disease detection to OCR systems.</li>
+  <li>🤝 A strong believer in <strong>teamwork, curiosity, and continuous learning</strong>.</li>
+  <li>🎯 Known for <strong>problem-solving, quick prototyping, and efficient project execution</strong>.</li>
+  <li>🌐 On a mission to use <strong>AI for good</strong> — transforming industries and everyday life.</li>
+</ul>
+
+---
+
+
 
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&multiline=false&width=700&lines=%F0%9F%94%A7+Tech+Stack+%26+Tools" alt="Tech Stack Animated">
@@ -140,6 +160,14 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshgavara1&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
+---
+
+
+<p align="center"><strong>
+  <a href="https://github.com/lokeshgavara1"><img src="https://komarev.com/ghpvc/?username=lokeshgavara1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lokeshgavara1" alt="Trophy"></a>
+</strong></p>
 
 ---
 
