@@ -2,100 +2,189 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code:wght@900&size=27&duration=3000&pause=1500&color=FF5722&center=true&vCenter=true&multiline=false&width=1200&lines=Hey+%F0%9F%91%8B+I'm+Lokesh+Gavara!;AI%2FML+Engineer+%7C+Deep+Learning+%7C+Prompt+Engineering+%7C+ML+Ops" alt="Lokesh Gavara Animated Intro">
 </h1>
 
-<h3 align="center"><strong>AI / ML Engineer | Deep Learning | Python | Prompt Engineering</strong></h3>
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&multiline=false&width=700&lines=%F0%9F%91%8B+About+Me" alt="About Me Animated">
+</h2>
 
-<p align="center"><strong>
-  <a href="https://github.com/lokeshgavara1"><img src="https://komarev.com/ghpvc/?username=lokeshgavara1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"></a>
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lokeshgavara1" alt="Trophy"></a>
-</strong></p>
+<h4 align="center"><strong>Aspiring AI/ML Engineer with a Passion for Intelligent Automation and Scalable Innovation</strong></h4>
+
+- 👋 Hi there! I’m **Lokesh Gavara**, a passionate AI & ML Engineer from Centurion University.  
+- 🧠 I specialize in **Python**, Deep Learning, and Prompt Engineering.  
+- 🚀 I craft innovative solutions to real-world problems using AI technologies.  
+- 🤝 I thrive in collaborative environments and lead teams to success.  
+- 🎯 Known for my strong problem-solving skills and efficient project execution.  
+- 🌐 Exploring AI's impact on daily life and future tech advancements.
 
 ---
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&multiline=false&width=700&lines=📚+About+Me" alt="About Me Animated">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&multiline=false&width=700&lines=%F0%9F%94%A7+Tech+Stack+%26+Tools" alt="Tech Stack Animated">
 </h2>
 
-👋 Hi there! I’m <strong>Lokesh Gavara</strong>, a budding AI & ML Engineer from <strong>Centurion University</strong> with a deep passion for solving real-world problems using Python and AI technologies. 🌍🔍
-
-### 🔎 What I Do
-- Develop AI/ML solutions focused on efficiency and accuracy
-- Create digital tools like smart agricultural apps and OCR systems
-- Lead collaborative, high-performing project teams
-
-### 🚀 My Strengths
-- Strong <strong>problem-solving</strong> abilities
-- Efficient <strong>project execution</strong> under pressure
-- Innovation-first approach with user-focused design
-
-### 🤝 Let’s Connect
-- I enjoy discussing ideas and building with fellow AI enthusiasts
-- Feel free to connect or collaborate via <a href="https://linkedin.com/in/lokeshgavara5">LinkedIn</a>
-
----
-
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&multiline=false&width=800&lines=🛠️+Tech+Stack+%26+Tools" alt="Tech Stack Animated">
-</h2>
-
-### 🧑‍💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<h4 align="center"><strong>Languages</strong></h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
 
-### 🧩 Frameworks & Libraries
-<p>
+<h4 align="center"><strong>Frameworks & Libraries</strong></h4>
+<p align="center">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 </p>
 
-### ⚙️ Developer Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<h4 align="center"><strong>Developer Tools</strong></h4>
+<p align="center">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 </p>
 
-### 🎨 Design & UI/UX
-<p>
+<h4 align="center"><strong>Design & UI/UX</strong></h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
-### ☁️ Platforms & DevOps
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<h4 align="center"><strong>Platforms & DevOps</strong></h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
 </p>
 
 ---
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&multiline=false&width=800&lines=💼+Experience" alt="Experience Animated">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&multiline=false&width=700&lines=%F0%9F%92%BC+Experience" alt="Experience Animated">
 </h2>
 
-### 💡 AIML Intern — Infosys Springboard (06/2025 - 10/2025)
-- Developed AI-based tools to support intelligent decision systems
-- Integrated NLP and deep learning methods to improve accuracy
-- Automated key processes improving model efficiency and versatility
+### 📌 AIML Intern – Infosys Springboard (06/2025 - 10/2025)
 
-### 📊 Data Analyst Intern — Aishwi Technologies Pvt Ltd (07/2025 - 08/2025)
-- Analyzed and optimized large-scale datasets
-- Designed data pipelines and contributed to performance improvements
-- Delivered actionable insights for real-world business decisions
+- 🧠 Oversaw the creation of AI-based tools to model systems that make intelligent decisions.
+- 🤖 Applied core AI principles to improve model performance and automate workflows.
+- 💬 Integrated NLP and deep learning techniques, enhancing system accuracy and flexibility.
+
+### 📌 Data Analyst Intern – Aishwi Technologies Pvt. Ltd. (07/2025 - 08/2025)
+
+- 📊 Collaborated on data projects, identifying trends and streamlining reporting processes.
+- 🛠️ Assisted in developing analytical models for data-driven insights and business strategies.
+- 🚀 Improved data accuracy and interpretation for internal dashboards and client reports.
 
 ---
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&multiline=false&width=700&lines=%F0%9F%93%9A+Featured+Projects" alt="Projects Animated">
+</h2>
+
+<table align="center">
+  <thead>
+    <tr>
+      <th><strong>Project</strong></th>
+      <th><strong>Description</strong></th>
+      <th><strong>Tech Stack</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>🌾 Crop Disease Prediction</strong></td>
+      <td>Developed a deep learning model using CNNs and TensorFlow to detect crop diseases early and support sustainable farming practices.</td>
+      <td>Python, TensorFlow, Deep Learning</td>
+    </tr>
+    <tr>
+      <td><strong>🔍 OCR Text Extraction</strong></td>
+      <td>Built a real-time OCR system using Python and Tesseract for text extraction from images, enhancing document automation workflows.</td>
+      <td>Python, OpenCV, Tesseract</td>
+    </tr>
+    <tr>
+      <td><strong>📚 Library Management System</strong></td>
+      <td>Created a dynamic web application to manage library operations efficiently, including issuing, returns, and inventory tracking.</td>
+      <td>PHP, MySQL, HTML/CSS</td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&multiline=false&width=700&lines=%F0%9F%93%8A+GitHub+Stats" alt="GitHub Stats Animated">
+</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lokeshgavara1&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lokeshgavara1&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshgavara1&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&multiline=false&width=700&lines=%F0%9F%91%AB+Let's+Connect!" alt="Let's Connect Animated">
+</h2>
+
+<p align="center">
+  <a href="mailto:lokeshgavara5@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/lokeshgavara5/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/lokeshgavara22" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://instagram.com/canvadesigns22" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.youtube.com/c/@gavaralokesh1735" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://kaggle.com/gavaralokesh" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+  <a href="https://www.codechef.com/users/lokeshgavara" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+  </a>
+  <a href="https://www.leetcode.com/lokeshgavara" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/lokeshgavara" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+  </a>
+  <a href="https://discord.gg/lokesh015739" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+</p>
+
+---
+
+
+
+
+
+
+
